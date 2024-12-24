@@ -6,7 +6,7 @@ vmess-ws | vmess-ws-tls(argo) | hysteria2 | tuic5
 ---
 ## Run This Script On Your Serv00 Server :
 ```
-bash <(curl -fsSL https://raw.githubusercontent.com/Jabi-james/Serv00-4-Protocol/main/JaBi-Serv00.sh)
+bash <(curl -fsSL https://github.com/Jabi-james/Serv00-4-Protocol/raw/refs/heads/main/JaBi-Serv00.sh)
 ```
 ![Screenshot 2024-12-04 215512](https://github.com/user-attachments/assets/2e7e110b-e3f4-46b2-9547-4fbea0c2eb20)
 
